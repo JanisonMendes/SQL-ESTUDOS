@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório de estudos de SQL! Aqui documento minha jornada pr
 ## 🗺️ Modelo de Dados Estudado
 Abaixo está o diagrama do banco de dados de vendas que utilizei para realizar as consultas e exercícios deste repositório:
 
-![Diagrama de Entidade-Relacionamento](SEU_ARQUIVO_DE_IMAGEM.png)
+![Diagrama de Entidade-Relacionamento](Diagrama.PNG)
 
 
 ## 📂 Estrutura do Repositório
